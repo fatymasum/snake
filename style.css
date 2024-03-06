@@ -1,0 +1,47 @@
+    
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.snake{
+    width: 100%;
+    height: 100vh;
+    background-image: url("snake.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    text-align: center;
+
+    
+}
+   h1 {
+    color: rgb(73, 107, 4);
+    font-family: "Kalam", cursive;
+
+   }
+   h2{
+    font-family: "Kalam", cursive;
+   }
+   #snakes{
+    color: brown;
+    text-shadow: 2px 2px 10px rgb(145, 11, 11);
+   }
+  button {
+    color:brown ;
+    font-family: Verdana ;
+    margin: 45px;
+    
+  }
+  .snale{
+    text-align: center;
+  }
+  
+  .sneyk{
+    text-align: center;
+  }
